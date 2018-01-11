@@ -1,0 +1,5 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<TestSettings id="1b4dc411-9986-4e13-a754-1c0fc769d3bc" name="TestNorthwind2" enableDefaultDataCollectors="false" xmlns="http://microsoft.com/schemas/VisualStudio/TeamTest/2010">
+  <Description><!--_locID_text="Description1"-->Il s'agit des paramètres de test par défaut pour une série de tests locale.</Description>
+  <Deployment enabled="false"/>
+</TestSettings>
